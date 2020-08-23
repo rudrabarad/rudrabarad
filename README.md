@@ -18,7 +18,6 @@
 
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudrabarad&repo=Medi-Consult)](https://github.com/anuraghazra/github-readme-stats)
 
