@@ -8,6 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Repos Badge](https://badges.pufler.dev/repos/rudrabarad)](https://badges.pufler.dev)
+
+-->
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad)](https://github.com/anuraghazra/github-readme-stats)
