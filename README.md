@@ -11,10 +11,16 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/rudrabarad)](https://badges.pufler.dev)
 
+&count_private=true
+&theme=graywhite
+&hide=contribs,prs
+&show_icons=true
+
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&show_icons=true&theme=graywhite&count_private=true)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudrabarad&repo=Medi-Consult&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
