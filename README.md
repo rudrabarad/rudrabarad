@@ -17,6 +17,8 @@
 &show_icons=true
 
 -->
+![](https://komarev.com/ghpvc/?username=rudrabarad)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 
