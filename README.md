@@ -13,4 +13,8 @@
 
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&hide=contribs,prs)
+
+
