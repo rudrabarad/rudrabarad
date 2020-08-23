@@ -17,8 +17,9 @@
 &show_icons=true
 
 -->
-![](https://komarev.com/ghpvc/?username=rudrabarad)
-
+![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=plastic)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 
