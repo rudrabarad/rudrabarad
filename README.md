@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,16 +10,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Repos Badge](https://badges.pufler.dev/repos/rudrabarad)](https://badges.pufler.dev)
-
+![Rudra's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 &count_private=true
 &theme=graywhite
 &hide=contribs,prs
 &show_icons=true
 
 -->
+
 ![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 
 
