@@ -21,6 +21,7 @@
 ![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-
+I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from Depstar. <br>
+A Technophile and a Design Enthusiast, who is obsessed with the idea of improving himself and and explore various things.
 
 
