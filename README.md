@@ -18,7 +18,7 @@
 
 -->
 
-![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat-square)
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from Depstar. <br>
