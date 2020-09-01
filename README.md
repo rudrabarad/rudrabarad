@@ -27,5 +27,5 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <br>
 <details>	
   <summary><b>:octocat: Github Stats</b></summary>
-    <img alt="Rudragithub stats's" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true&theme=graywhite&hide_border=true"/>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 </details>
