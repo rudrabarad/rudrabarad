@@ -1,6 +1,16 @@
 ## Hello World :wave:
 
 <!--
+
+- 🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- 📫 How to reach me: ...<br>
+- 😄 Pronouns: ...<br>
+- ⚡ Fun fact: ...<br>
+
 ![Rudra's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
 &count_private=true
 &theme=graywhite
@@ -17,16 +27,9 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 <br>
 
-    🔭 I’m currently working on ...<br>
- 🌱 I’m currently learning ...<br>
- 👯 I’m looking to collaborate on ...<br>
- 🤔 I’m looking for help with ...<br>
- 💬 Ask me about ...<br>
- 📫 How to reach me: ...<br>
- 😄 Pronouns: ...<br>
- ⚡ Fun fact: ...<br>
+
 
 <details>	
-  <summary><b>:octocat: Github Stats</b></summary>
+  <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 </details>
