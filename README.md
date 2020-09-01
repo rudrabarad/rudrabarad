@@ -15,7 +15,7 @@
 &theme=graywhite
 &hide=contribs,prs
 &show_icons=true
-
+&hide_border=true
 -->
 
 ![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
@@ -24,4 +24,8 @@
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [Depstar](https://www.charusat.ac.in/depstar/). <br><br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
 
-
+<br>
+<details>	
+  <summary><b>:octocat: Github Stats</b></summary>
+    <img alt="Rudragithub stats's" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true&hide_border=true"/>
+</details>
