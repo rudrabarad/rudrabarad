@@ -33,3 +33,9 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 </details>
+
+<details>	
+  <summary><b>Publication</b></summary>
+  <br>
+  ![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%230F9D58.svg?&style=flat&logo=geeksforgeeks&logoColor=white)
+</details>
