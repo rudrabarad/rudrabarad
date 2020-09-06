@@ -35,7 +35,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 </details>
 
 <details>	
-  <summary><b>Publication</b></summary>
-  <br>
-  ![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%230F9D58.svg?&style=flat&logo=geeksforgeeks&logoColor=white)
+  <summary><b>Publication</b></summary><br>
+
+  ![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%231DBF73.svg?&style=flat&logoColor=white)
 </details>
