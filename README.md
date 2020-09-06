@@ -27,15 +27,20 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 <br>
 
+- 💬 Ask Me Anything [here](https://github.com/rudrabarad/rudrabarad/issues)
+- 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
+- 😄 Pronouns: He/His/Him
 
 
-<details>	
-  <summary><b>GitHub Stats</b></summary>
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
-</details>
 
 <details>	
   <summary><b>Publication</b></summary><br>
 
   ![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%231DBF73.svg?&style=flat&logoColor=white)
 </details>
+
+<details>	
+  <summary><b>GitHub Stats</b></summary>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+</details>
+
