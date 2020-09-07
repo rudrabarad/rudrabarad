@@ -27,7 +27,8 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 <br>
 
-- 💬 Ask Me Anything [here](https://github.com/rudrabarad/rudrabarad/issues)
+- :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/)
+- 💬 Ask Me Anything [Here](https://github.com/rudrabarad/rudrabarad/issues/new)
 - 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
 - 😄 Pronouns: He/His/Him
 
