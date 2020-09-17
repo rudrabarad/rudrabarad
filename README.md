@@ -26,10 +26,12 @@ I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
 
 <br>
-
-- :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/)
+- :blue_heart: I was part of Internshala Student Partner 11 (ISP 18) - One of the India's largest student community
+- :superhero_man: Coding Blocks Superhero - I’m a Campus Ambassador at Coding blocks
+- :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/) - An official student technical community under GitHub Campus Expert :triangular_flag_on_post:
 - 💬 Ask Me Anything [Here](https://github.com/rudrabarad/rudrabarad/issues/new)
 - 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
+- 📝 Checkout my [Resume](https://www.linkedin.com/in/rudra-barad/)
 - 😄 Pronouns: He/His/Him
 
 
