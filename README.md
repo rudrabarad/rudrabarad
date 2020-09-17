@@ -48,6 +48,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <details>	
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
-
+Some [Advance Stats](https://gitstats.me/rudrabarad) about my GitHub Profile <br>
+  
 </details>
 
