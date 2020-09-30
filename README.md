@@ -32,12 +32,8 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 - :blue_heart: I was part of Internshala Student Partner 18 (ISP 18) - One of the India's largest student community
 - :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/) - An official student technical community under GitHub Campus Expert :triangular_flag_on_post:
 - :heart_eyes: Schwags and Goodies drives me crazy
-- 💬 Ask Me Anything [Here](https://github.com/rudrabarad/rudrabarad/issues/new)
 - 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
-- 😄 Pronouns: He/His/Him
 - :sparkling_heart: Fun Fact - I love using Emojis 
-
-
 
 <details>	
   <summary><b>Publication</b></summary><br>
