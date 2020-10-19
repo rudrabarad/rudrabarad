@@ -57,14 +57,14 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/rudrabarad<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/22ffb599db68f29237c43543b6016104/raw/rb-behance.json)](https://www.behance.net/rudrabarad)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/rudraabarad)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/curiorimor)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/rudrabarad)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@rudra.barad)<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9e8ae701031c85c83b1d85b6de850745/raw/rb-gfg.json)](https://www.geeksforgeeks.org/how-to-install-oracle-database-11g-on-windows/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/d8d66e82cba5f63d802615a10faa6ad4/raw/rb-qwiklabs.json)](https://www.qwiklabs.com/public_profiles/d245c664-8a5e-4ad9-9f5e-f702f4c3ec76)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/8a9dc71fa29900ce585566c88f2c49ad/raw/rb-quora.json)](https://www.quora.com/profile/Rudra-Barad)<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/9c69be885f4bb6e55765ab00781ac64a/raw/rb-spotify.json)](https://open.spotify.com/user/yvhp6hur3d0vmvz41z7q0mkdu?si=V3Tm49D7SEOJpEv1-5sZNg)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/f6bcdb44d74b10141992756ae2f10c37/raw/rb-strava.json)](https://www.strava.com/athletes/20643202)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/rudra.barad/)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/rudra.barad/)<br>
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/rudrabarad)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@rudra.barad)
 <br><br>
 <a href="https://github.com/rudrabarad/rudrabarad/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
