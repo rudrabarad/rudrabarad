@@ -50,7 +50,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/rudrabarad<br>
 </details>
 
 <details>	
-  <summary><b>Social Dilema</b></summary><br>
+  <summary><b>Social Dilemma</b></summary><br>
 <div align="center">
   
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/rudra-barad/)
