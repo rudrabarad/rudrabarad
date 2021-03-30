@@ -49,6 +49,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/rudrabarad<br>
+My 2020 GitHub Skyline                    - https://skyline.github.com/rudrabarad/2020
   
 </details>
 
