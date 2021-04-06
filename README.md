@@ -39,7 +39,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 - :sparkling_heart: Fun Fact - I love using Emojis 
 
 <details>	
-  <summary><b>Article/Publication</b></summary><br>
+  <summary><b>Blogs/Article/Publication</b></summary><br>
 
   [![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%231DBF73.svg?&style=flat&logoColor=white)](https://www.geeksforgeeks.org/how-to-install-oracle-database-11g-on-windows/)
   [![](https://img.shields.io/badge/Medium-GitHub_CLI_is_out_of_Beta-%23ffffff.svg?&style=flat&logoColor=white)](https://medium.com/@rudra.barad/github-cli-is-out-of-beta-b610470fdef6)
