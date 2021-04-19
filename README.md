@@ -47,7 +47,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 <details>	
   <summary><b>GitHub Stats</b></summary>
-<img  src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rudrabarad&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/rudrabarad<br>
 My 2020 GitHub Skyline                    - https://skyline.github.com/rudrabarad/2020 <br>
