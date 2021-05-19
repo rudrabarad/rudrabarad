@@ -19,10 +19,10 @@
 &hide_border=true
 -->
 
-![](https://komarev.com/ghpvc/?username=rudrabarad&color=red&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=red)
-![Repos Badge](https://badges.pufler.dev/repos/rudrabarad/?color=red)
-![Years Badge](https://badges.pufler.dev/years/rudrabarad/?color=red)
+![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
+![Repos Badge](https://badges.pufler.dev/repos/rudrabarad/?color=white)
+![Years Badge](https://badges.pufler.dev/years/rudrabarad/?color=white)
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [Depstar](https://www.charusat.ac.in/depstar/). <br><br>
