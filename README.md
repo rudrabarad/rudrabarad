@@ -1,28 +1,9 @@
 ## Hello World :wave:
 
 <!--
-
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
-
-![Rudra's github stats](https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&prs_private=true&show_icons=true)
-&count_private=true
-&theme=graywhite
-&hide=contribs,prs
-&show_icons=true
-&hide_border=true
+![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
 -->
 
-![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
-![Repos Badge](https://badges.pufler.dev/repos/rudrabarad/?color=white)
-![Years Badge](https://badges.pufler.dev/years/rudrabarad/?color=white)
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [Depstar](https://www.charusat.ac.in/depstar/). <br><br>
@@ -75,4 +56,6 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/rudrabara
 <a href="https://github.com/rudrabarad/rudrabarad/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-1DA1F2"/></a>
 </div>  
 </details>
+
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
 
