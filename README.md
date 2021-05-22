@@ -11,7 +11,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 <br>
 
-- 📝 Checkout my [Resume](https://piar.me/rudra-barad-resume)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1dtQ4JQuWlfBSITbRLyrGEv4vVx2Jx98M/view?usp=sharing)
 - :superhero_man: Coding Blocks Superhero - I’m a Campus Ambassador at Coding blocks
 - :blue_heart: I was part of Internshala Student Partner 18 (ISP 18) - One of the India's largest student community
 - :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/) - An official student technical community under GitHub Campus Expert :triangular_flag_on_post:
