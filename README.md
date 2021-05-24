@@ -3,6 +3,7 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
 -->
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
@@ -57,5 +58,4 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/rudrabara
 </div>  
 </details>
 
-![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
 
