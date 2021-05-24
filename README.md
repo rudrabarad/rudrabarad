@@ -3,9 +3,10 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
 -->
-![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=white)
+
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [Depstar](https://www.charusat.ac.in/depstar/). <br><br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
