@@ -34,9 +34,12 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
   <summary><b>GitHub Stats</b></summary>
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=rudrabarad&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rudrabarad&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
+  
 Some Advance Stats about my GitHub Profile - https://gitstats.me/rudrabarad<br>
 My 2020 GitHub Skyline                    - https://skyline.github.com/rudrabarad/2020 <br>
-My 2021 GitHub Skyline                    - https://skyline.github.com/rudrabarad/2021
+My 2021 GitHub Skyline                    - https://skyline.github.com/rudrabarad/2021 <br>
+  
+![Metrics](https://metrics.lecoq.io/rudrabarad?template=classic&isocalendar=1&languages=1&followup=1&lines=1&achievements=1&notable=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
   
 </details>
 
